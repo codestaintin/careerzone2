@@ -1,0 +1,15 @@
+{
+  "name": "careerzone-assessment2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codestaintin/careerzone2",
+  "author": "Mohammed Isioye",
+  "license": "MIT",
+  "scripts": {
+    "test": "cypress run --headed"
+  },
+  "devDependencies": {
+    "cypress": "^13.14.0",
+    "cypress-mochawesome-reporter": "^3.7.0"
+  }
+}
